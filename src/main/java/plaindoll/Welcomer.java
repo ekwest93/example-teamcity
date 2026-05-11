@@ -16,3 +16,7 @@ public class Welcomer{
 		return "something in the way";
 	}
 }
+
+    public String sayHunterReply() {
+        return "We are hunters, good hunter.";
+    }
